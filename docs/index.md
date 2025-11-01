@@ -91,7 +91,7 @@ In cybersecurity, demonstrating capability matters more than perfect presentatio
 
 *Ready to prove that breaking into cybersecurity is 100% possible? Let's do this.*
 
-**[Start with Week 01 →](/letters/)** (Coming November 2025)
+**[Start with Week 01 →](/BTuff-Security/letters/)** (Coming November 2025)
 
 ---
 
