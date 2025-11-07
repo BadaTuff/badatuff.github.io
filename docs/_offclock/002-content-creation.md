@@ -29,7 +29,7 @@ Every time I watch a video now, it hits different. I see them from a creator len
 
 Check out the new YouTube video I'll be dropping! My first letter sometime next week. I hoped to drop it this week, but I didn't expect editing to take this long. The streak starts now!
 
-[**Watch the video here →**](https://www.youtube.com/watch?v=UbCa-0Ni6fY&t=33s)
+[**Watch the video here →**](https://youtu.be/UbCa-0Ni6fY?si=8ydgV4nH4mj7i13e)
 
 ---
 
