@@ -40,11 +40,11 @@ The journey officially begins next week! Week 01 will cover:
 
 ### 🌱 Latest Off the Clock (Life & Growth)
 
-**Welcome to Off the Clock**
+**The Humbling Experience of Learning Content Creation**
 
-The side of BTuff beyond the terminal - thoughts on life, mental health, personal growth, and everything in between. No schedule, no pressure - just authentic reflections when there's something worth sharing.
+4 hours of recording for 8 minutes of content. 10 hours of editing. The reality check of stepping into an unknown field and realizing how much you don't know. My first video taught me more about persistence and learning than any tutorial could.
 
-**[Explore Off the Clock →](/BTuff-Security/offclock/)**
+**[Read the full post →](/BTuff-Security/offclock/002-content-creation/)**
 
 ---
 
