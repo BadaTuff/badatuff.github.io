@@ -40,6 +40,13 @@ If you're on a similar path, hopefully these reflections remind you that you're 
 
 All posts are listed below from newest to oldest. No schedule, no pressure - just authentic thoughts when they're ready.
 
----
+{% assign sorted_posts = site.offclock | sort: 'nav_order' | reverse %}
+{% for post in sorted_posts %}
+  <div style="margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #444;">
+    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+    <a href="{{ post.url | relative_url }}">Read more →</a>
+  </div>
+{% endfor %}
 
-*Ready to get started? Check out the welcome post below to learn more.*
+---
