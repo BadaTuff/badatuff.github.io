@@ -47,9 +47,12 @@ aux_links:
 
 aux_links_new_tab: true
 
-# Collections for weekly letters
+# Collections for weekly letters and lifestyle posts
 collections:
   letters:
+    permalink: "/:collection/:path/"
+    output: true
+  offclock:
     permalink: "/:collection/:path/"
     output: true
 
@@ -58,6 +61,12 @@ defaults:
   - scope:
       path: ""
       type: "letters"
+    values:
+      layout: "default"
+      nav_exclude: false
+  - scope:
+      path: ""
+      type: "offclock"
     values:
       layout: "default"
       nav_exclude: false

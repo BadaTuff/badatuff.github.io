@@ -21,29 +21,48 @@ Hey! I'm **Muhiz "BTuff" Bada**, and I'm documenting my journey from student to 
 
 ---
 
-## Latest Weekly Letter
+## Latest Updates
 
-### Coming Soon: Week 01 (November 2025)
+### 📘 Latest Weekly Letter (Cybersecurity)
+
+**Coming Soon: Week 01 (November 2025)**
 
 The journey officially begins next week! Week 01 will cover:
 
 - OSCP methodology and initial labs
-- Starting BTL1 Certficate - fundamentals and detection concepts
+- Starting BTL1 Certificate - fundamentals and detection concepts
 - Setting up my learning environment
 - First practical examples and runbooks
 
-**Subscribe on [YouTube](https://www.youtube.com/@BTuffSecurity) to follow along with video demonstrations & more on the week!**
+**[Read all Weekly Letters →](/BTuff-Security/letters/)**
+
+---
+
+### 🌱 Latest Off the Clock (Life & Growth)
+
+**Welcome to Off the Clock**
+
+The side of BTuff beyond the terminal - thoughts on life, mental health, personal growth, and everything in between. No schedule, no pressure - just authentic reflections when there's something worth sharing.
+
+**[Explore Off the Clock →](/BTuff-Security/offclock/)**
 
 ---
 
 ## What You'll Find Here
 
-### Weekly Letters
+### Weekly Letters (Cybersecurity)
 In-depth reflections combining OSCP and BTL1 learning. Each letter includes:
 - Technical concepts explained clearly
 - Practical lab examples and walkthroughs
 - How to apply skills to real SOC/Blue-Team roles
 - Challenges faced and lessons learned
+
+### Off the Clock (Life & Growth)
+Unscheduled, authentic posts on the non-technical side of the journey:
+- Mental health and maintaining balance
+- Personal growth and productivity habits
+- Life lessons while pursuing certs
+- Real talk about challenges and wins
 
 ### Practical Artifacts
 Real work you'd do in a security role:
