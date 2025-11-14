@@ -35,9 +35,9 @@ Diving deep into Netstat, Traceroute, Dig/Nslookup, and Nmap from both Blue Team
 - DNS investigation with Dig/Nslookup
 - Port scanning and enumeration with Nmap
 
-[Read Week 01 →](/BTuff-Security/letters/)
+[Read Week 01 →]({{ site.baseurl }}{% link _letters/week-01.md %})
 
-**[Read all Weekly Letters →](/BTuff-Security/letters/)**
+**[All Weekly Letters →]({{ site.baseurl }}{% link letters.md %})**
 
 ---
 
@@ -113,7 +113,7 @@ In cybersecurity, demonstrating capability matters more than perfect presentatio
 
 *Ready to prove that breaking into cybersecurity is 100% possible? Let's do this.*
 
-**[Read Week 01 - Network Tools →](/BTuff-Security/letters/week-01.html)** | **[All Letters →](/BTuff-Security/letters/)**
+**[Read Week 01 - Network Tools →]({{ site.baseurl }}{% link _letters/week-01.md %})** | **[All Letters →]({{ site.baseurl }}{% link letters.md %})**
 
 ---
 
