@@ -26,7 +26,7 @@ Letters are organized from newest to oldest. Each represents one week of focused
 
 ## Latest Letter
 
-### **[Week 01 - Rediscovering Network Tools Through a Security Lens →]({{ site.baseurl }}{% link _letters/week-01.md %})**
+### **[Week 01 - Rediscovering Network Tools Through a Security Lens →]({{ site.baseurl }}{% link letters/week-01.md %})**
 
 Diving deep into Netstat, Traceroute, Dig/Nslookup, and Nmap from both Blue Team and Red Team perspectives. Learn how the same tools serve different purposes depending on which side of security you're on.
 
@@ -36,7 +36,7 @@ Diving deep into Netstat, Traceroute, Dig/Nslookup, and Nmap from both Blue Team
 - DNS investigation with Dig/Nslookup
 - Port scanning and enumeration with Nmap
 
-**[Read Week 01 now →]({{ site.baseurl }}{% link _letters/week-01.md %})**
+**[Read Week 01 now →]({{ site.baseurl }}{% link letters/week-01.md %})**
 
 Subscribe on [YouTube](https://www.youtube.com/@BTuffSecurity) for video demonstrations!
 

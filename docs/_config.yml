@@ -47,29 +47,13 @@ aux_links:
 
 aux_links_new_tab: true
 
-# Collections for weekly letters and lifestyle posts
-collections:
-  letters:
-    permalink: "/:collection/:path/"
-    output: true
-  offclock:
-    permalink: "/:collection/:path/"
-    output: true
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: "letters"
-    values:
-      layout: "default"
-      nav_exclude: false
-  - scope:
-      path: ""
-      type: "offclock"
-    values:
-      layout: "default"
-      nav_exclude: false
+# Exclude old collection folders from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - _letters
+  - _offclock
 
 # Plugins
 plugins:

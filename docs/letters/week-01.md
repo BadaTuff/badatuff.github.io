@@ -31,9 +31,9 @@ You can also use netstat for troubleshooting. For example, if you want to make s
 
 **Key commands to know:**
 
-- `netstat -a` - Displays all current open ports and their connections
-- `netstat -a -b` (Windows) - Shows open ports, connections, AND the executable responsible for each
-- `netstat -s -p tcp -f` - Displays all current TCP connections and listening ports with their corresponding executables
+- `netstat -a` — Displays all current open ports and their connections
+- `netstat -a -b` (Windows) — Shows open ports, connections, AND the executable responsible for each
+- `netstat -s -p tcp -f` — Displays all current TCP connections and listening ports with their corresponding executables
 
 **How I'll apply this in a SOC role:** If I see suspicious network traffic corresponding to a specific port on an endpoint, I'll immediately run `netstat -a -b` to identify the executable using that port. From there, I can investigate whether it's legitimate software or malware establishing persistence. For example, if I see an unknown process communicating with an external IP on a non-standard port, that's an immediate red flag for potential C2 communication. I'd pivot to analyzing that executable with tools like VirusTotal or sandboxing it for behavioral analysis.
 
@@ -61,9 +61,9 @@ Let's say whenever you try to access a server, it always comes back slow or some
 
 **Key commands to know:**
 
-- `dig [domain name]` - Queries DNS for the A record (IP address)
-- `dig [domain name] MX` - Queries for mail (MX) records
-- `dig [domain name] ANY +nocomments +noauthority +noadditional +nostats` - Queries for all DNS records without extra clutter
+- `dig [domain name]` — Queries DNS for the A record (IP address)
+- `dig [domain name] MX` — Queries for mail (MX) records
+- `dig [domain name] ANY +nocomments +noauthority +noadditional +nostats` — Queries for all DNS records without extra clutter
 
 **How I'll apply this in a SOC role:** When investigating a phishing email, I'll use dig to research the sender's domain and any URLs in the email. I can check if the domain's MX records point to free email services (Gmail, Outlook) when the email claims to be from a major corporation. That's a red flag. I'd also look up the IP address the domain resolves to and check its geolocation and reputation. Combined with WHOIS data (see my mistake below), this reconnaissance quickly confirms whether an email campaign is malicious before escalating to deeper analysis.
 
