@@ -3,7 +3,6 @@ layout: default
 title: Weekly Letters
 nav_order: 3
 has_children: true
-permalink: /letters/
 ---
 
 # Weekly Letters
@@ -25,9 +24,21 @@ Letters are organized from newest to oldest. Each represents one week of focused
 
 ---
 
-## Coming Soon
+## Latest Letter
 
-**Week 01** launches in November 2025! Subscribe on [YouTube](https://www.youtube.com/@BTuffSecurity) to get notified.
+### **[Week 01 - Rediscovering Network Tools Through a Security Lens →](week-01.html)**
+
+Diving deep into Netstat, Traceroute, Dig/Nslookup, and Nmap from both Blue Team and Red Team perspectives. Learn how the same tools serve different purposes depending on which side of security you're on.
+
+**Topics covered:**
+- Understanding C2 detection with Netstat
+- Network troubleshooting with Traceroute
+- DNS investigation with Dig/Nslookup
+- Port scanning and enumeration with Nmap
+
+**[Read Week 01 now →](week-01.html)**
+
+Subscribe on [YouTube](https://www.youtube.com/@BTuffSecurity) for video demonstrations!
 
 ---
 
@@ -42,4 +53,4 @@ The format combines blog-style reflection with technical tutorial content, showi
 
 ---
 
-*Check back weekly for new content starting November 2025!*
+*New letters published weekly! Follow along on [YouTube](https://www.youtube.com/@BTuffSecurity) for video walkthroughs.*

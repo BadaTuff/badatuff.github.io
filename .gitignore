@@ -1,0 +1,16 @@
+# Claude Code working directory
+.claude/
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+nul

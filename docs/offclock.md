@@ -3,7 +3,6 @@ layout: default
 title: Off the Clock
 nav_order: 4
 has_children: true
-permalink: /offclock/
 ---
 
 # Off the Clock

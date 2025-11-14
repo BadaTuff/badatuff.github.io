@@ -25,14 +25,17 @@ Hey! I'm **Muhiz "BTuff" Bada**, and I'm documenting my journey from student to 
 
 ### 📘 Latest Weekly Letter (Cybersecurity)
 
-**Coming Soon: Week 01 (November 2025)**
+**Week 01 - Rediscovering Network Tools Through a Security Lens**
 
-The journey officially begins next week! Week 01 will cover:
+Diving deep into Netstat, Traceroute, Dig/Nslookup, and Nmap from both Blue Team and Red Team perspectives. Learn how the same tools serve different purposes depending on which side of security you're on.
 
-- OSCP methodology and initial labs
-- Starting BTL1 Certificate - fundamentals and detection concepts
-- Setting up my learning environment
-- First practical examples and runbooks
+**Topics covered:**
+- Understanding C2 detection with Netstat
+- Network troubleshooting with Traceroute
+- DNS investigation with Dig/Nslookup
+- Port scanning and enumeration with Nmap
+
+[Read Week 01 →](/BTuff-Security/letters/)
 
 **[Read all Weekly Letters →](/BTuff-Security/letters/)**
 
@@ -110,8 +113,8 @@ In cybersecurity, demonstrating capability matters more than perfect presentatio
 
 *Ready to prove that breaking into cybersecurity is 100% possible? Let's do this.*
 
-**[Start with Week 01 →](/BTuff-Security/letters/)** (Coming November 2025)
+**[Read Week 01 - Network Tools →](/BTuff-Security/letters/week-01.html)** | **[All Letters →](/BTuff-Security/letters/)**
 
 ---
 
-<small>Last updated: October 31, 2025</small>
+<small>Last updated: November 2025</small>
