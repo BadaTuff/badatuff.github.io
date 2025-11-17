@@ -132,4 +132,4 @@ The real power comes from understanding both perspectives. When I run Nmap as a 
 
 This is my first technical blog post, and I'm so excited to share it with the world. I appreciate you reading. I hope you learned a thing or two, or at least enjoyed hearing about my week of learning. Continue to BTuff, and have a great rest of your week!
 
-**Dropping the YouTube video corresponding to this post soon!**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5XEKw-HNBPM?si=Rw1a6qLYLZLZitWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
