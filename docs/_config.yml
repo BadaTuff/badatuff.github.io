@@ -47,13 +47,14 @@ aux_links:
 
 aux_links_new_tab: true
 
-# Exclude old collection folders from processing
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-  - _letters
-  - _offclock
+# Collections
+collections:
+  letters:
+    output: true
+    permalink: /letters/:name/
+  offclock:
+    output: true
+    permalink: /offclock/:name/
 
 # Plugins
 plugins:
