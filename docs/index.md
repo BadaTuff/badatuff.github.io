@@ -25,17 +25,17 @@ Hey! I'm **Muhiz "BTuff" Bada**, and I'm documenting my journey from student to 
 
 ### 📘 Latest Weekly Letter (Cybersecurity)
 
-**Week 01 - Rediscovering Network Tools Through a Security Lens**
+**Week 02 - Cybersecurity Skills Transfer to the Real World**
 
-Diving deep into Netstat, Traceroute, Dig/Nslookup, and Nmap from both Blue Team and Red Team perspectives. Learn how the same tools serve different purposes depending on which side of security you're on.
+How I avoided a real-life phishing attempt using cybersecurity training, plus reinforcing key SOC concepts like SIEM, EDR, HIDS/HIPS, Risk Management, and more!
 
 **Topics covered:**
-- Understanding C2 detection with Netstat
-- Network troubleshooting with Traceroute
-- DNS investigation with Dig/Nslookup
-- Port scanning and enumeration with Nmap
+- Story Time: The Phishy Man (real-life social engineering)
+- SIEM vs EDR vs HIDS/HIPS - understanding the differences
+- Risk Management Framework and the 4 ways to manage risk
+- Security Awareness Training saves lives (literally!)
 
-[Read Week 01 →]({{ site.baseurl }}{% link letters/week-01.md %})
+[Read Week 02 →]({{ site.baseurl }}{% link letters/week-02.md %})
 
 **[All Weekly Letters →]({{ site.baseurl }}{% link letters/index.md %})**
 
@@ -113,7 +113,7 @@ In cybersecurity, demonstrating capability matters more than perfect presentatio
 
 *Ready to prove that breaking into cybersecurity is 100% possible? Let's do this.*
 
-**[Read Week 01 - Network Tools →]({{ site.baseurl }}{% link letters/week-01.md %})** | **[All Letters →]({{ site.baseurl }}{% link letters/index.md %})**
+**[Read Week 02 - Real World Skills →]({{ site.baseurl }}{% link letters/week-02.md %})** | **[All Letters →]({{ site.baseurl }}{% link letters/index.md %})**
 
 ---
 
