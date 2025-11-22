@@ -11,9 +11,9 @@ permalink: /about/
 
 ## Muhiz "BTuff" Bada
 
-Blue-Team focused security analyst in training.
+19-year-old Blue-Team focused security analyst in training.
 
-I'm finishing a B.S. in Computer Science (InfoSec concentration) at Southern New Hampshire University with a 3.8 GPA (graduating March 2026). Currently pursuing OSCP and Security Blue Team's BTL1 certification simultaneously while documenting my journey to a SOC/Blue-Team Analyst role.
+I'm finishing a B.S. in Computer Science (InfoSec concentration) at Southern New Hampshire University with a 3.8 GPA (graduating March 2026). I'm incredibly grateful for Walmart's Live Better U program, which is covering my tuition and making this education possible. Currently pursuing Security Blue Team's BTL1 certification while documenting my journey to a SOC/Blue-Team Analyst role.
 
 ### Certifications
 
@@ -35,9 +35,9 @@ Every week I publish practical security work: runbooks, detections, scripts, and
 
 ## What You'll Find Here
 
-This site documents my weekly learning journey through OSCP and BTL1 certifications. Each week I publish:
+This site documents my weekly learning journey through the BTL1 certification. Each week I publish:
 
-- **Weekly Letters**: In-depth reflections combining OSCP and BTL1 concepts
+- **Weekly Letters**: In-depth reflections on Blue Team concepts
 - **Practical Examples**: Runbooks, detection rules, scripts, and lab walkthroughs
 - **Real-World Applications**: How these skills translate to actual SOC/Blue-Team work
 - **Mistakes & Fixes**: The learning process, not just the polished results
@@ -55,9 +55,5 @@ This site documents my weekly learning journey through OSCP and BTL1 certificati
 
 - **LinkedIn**: [linkedin.com/in/muhiz-bada](https://www.linkedin.com/in/muhiz-bada-99646325b/)
 - **YouTube**: [youtube.com/@BTuffSecurity](https://www.youtube.com/@BTuffSecurity)
-- **GitHub**: [github.com/BadaTuff/BTuff-Security](https://github.com/BadaTuff/BTuff-Security)
 - **Email**: Badatuff9048@gmail.com
 
----
-
-*Last updated: October 2025*

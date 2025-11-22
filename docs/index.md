@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "BTuff Security - Weekly OSCP + BTL1 study-in-public. Evidence over polish."
+description: "BTuff Security - Weekly BTL1 study-in-public. Evidence over polish."
 permalink: /
 ---
 
@@ -10,7 +10,7 @@ permalink: /
 
 ## Breaking Into Cybersecurity Through Persistence
 
-Hey! I'm **Muhiz "BTuff" Bada**, and I'm documenting my journey from student to SOC/Blue-Team Analyst in real-time. Every week I publish practical security work while pursuing OSCP and Security Blue Team's BTL1 certification simultaneously.
+Hey! I'm **Muhiz "BTuff" Bada**, a 19-year-old documenting my journey from student to SOC/Blue-Team Analyst in real-time. Every week I publish practical security work while pursuing Security Blue Team's BTL1 certification.
 
 ### What Makes This Different?
 
@@ -54,7 +54,7 @@ How I avoided a real-life phishing attempt using cybersecurity training, plus re
 ## What You'll Find Here
 
 ### Weekly Letters (Cybersecurity)
-In-depth reflections combining OSCP and BTL1 learning. Each letter includes:
+In-depth reflections on Blue Team concepts and BTL1 learning. Each letter includes:
 - Technical concepts explained clearly
 - Practical lab examples and walkthroughs
 - How to apply skills to real SOC/Blue-Team roles
@@ -83,7 +83,7 @@ I document everything - successes and failures. If I struggle with a concept, yo
 
 - **Education**: B.S. Computer Science (InfoSec) at SNHU, 3.8 GPA, graduating March 2026
 - **Certifications**: CompTIA Security+, CompTIA Network+, Google Cybersecurity Certificate
-- **Currently Pursuing**: OSCP + BTL1 simultaneously
+- **Currently Pursuing**: BTL1 (Blue Team Level 1)
 - **Goal**: SOC/Blue-Team Analyst role
 
 [Read more about me →](/BTuff-Security/about/)
@@ -94,7 +94,6 @@ I document everything - successes and failures. If I struggle with a concept, yo
 
 - **LinkedIn**: [Muhiz Bada](https://www.linkedin.com/in/muhiz-bada-99646325b/) - Connect and follow my professional journey
 - **YouTube**: [6 Months to SOC](https://www.youtube.com/@BTuffSecurity) - Video walkthroughs and demonstrations
-- **GitHub**: [Raw Notes & Code](https://github.com/BadaTuff/BTuff-Security) - All source materials and scripts
 - **Weekly Letters**: Check back every week for new content
 
 ---
@@ -115,6 +114,3 @@ In cybersecurity, demonstrating capability matters more than perfect presentatio
 
 **[Read Week 02 - Real World Skills →]({{ site.baseurl }}{% link letters/week-02.md %})** | **[All Letters →]({{ site.baseurl }}{% link letters/index.md %})**
 
----
-
-<small>Last updated: November 2025</small>

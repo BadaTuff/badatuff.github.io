@@ -7,14 +7,13 @@ has_children: true
 
 # Weekly Letters
 
-## OSCP + BTL1 Learning Journey
+## BTL1 Learning Journey
 
-Every week I publish a detailed letter documenting what I'm learning across both OSCP and BTL1 certifications. Each letter combines technical concepts, practical examples, and real-world applications for SOC/Blue-Team roles.
+Every week I publish a detailed letter documenting what I'm learning through the BTL1 certification. Each letter combines technical concepts, practical examples, and real-world applications for SOC/Blue-Team roles.
 
 ### What's in Each Letter?
 
-- **OSCP Section**: Methodology, enumeration techniques, exploitation concepts, and lab walkthroughs
-- **BTL1 Section**: Detection engineering, log analysis, incident response, and blue team fundamentals
+- **Blue Team Fundamentals**: Detection engineering, log analysis, incident response, and defensive security
 - **Practical Examples**: Scripts, runbooks, detection rules, and real-world applications
 - **Reflections**: Challenges faced, lessons learned, and how concepts connect
 
