@@ -7,7 +7,7 @@ permalink: /about/
 
 # About Me
 
-<img src="/BTuff-Security/assets/images/profile.jpg" alt="Muhiz BTuff Bada" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; display: block; margin: 20px auto;">
+<img src="/assets/images/profile.jpg" alt="Muhiz BTuff Bada" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; display: block; margin: 20px auto;">
 
 ## Muhiz "BTuff" Bada
 

@@ -13,7 +13,7 @@ This week I went through more review for the Blue Team Level 1 cert and finally 
 
 ## Story Time: The Phishy Man
 
-<img src="/BTuff-Security/assets/images/realphishy.png" alt="The Phishy Man" style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
+<img src="/assets/images/realphishy.png" alt="The Phishy Man" style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
 
 I was working like any other day and I saw a guy (let's call him Mr. Phish). I'd seen this guy before, and I noticed every time I see him, he has some nice new clothes on: a beautiful suit, sharp tie, dazzling glasses, and a glistening watch! A different beautiful outfit every week I see him. This week I asked him, "Hey, I noticed you always have nice clothes on and I always compliment you for it every week. I was curious, if you don't mind me asking, what do you do for a living?"
 

@@ -7,7 +7,7 @@ nav_order: 2
 
 # The Humbling Experience of Learning Content Creation
 
-<img src="/BTuff-Security/assets/images/EditingMeme.png" alt="Editing struggles" style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
+<img src="/assets/images/EditingMeme.png" alt="Editing struggles" style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
 
 I'm truly just realizing there are levels to this content creation stuff. I give props to those who do content full-time for a job it's way harder than it looks. Recording took over 4 hours for my first video, and it was only 8 minutes. Editing took about 10 hours as well, and I was sitting here thinking, "Hey, I'll knock this all out in an hour" when I began.
 

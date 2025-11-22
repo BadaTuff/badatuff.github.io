@@ -1,7 +1,7 @@
 title: BTuff Security
 description: Weekly BTL1 study-in-public. Evidence over polish - letters, runbooks, detections, scripts, and real-world security work.
-baseurl: "/BTuff-Security"
-url: "https://badatuff.github.io"
+baseurl: ""
+url: "https://btuffsecurity.com"
 
 # Theme
 remote_theme: just-the-docs/just-the-docs@v0.8.2

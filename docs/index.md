@@ -47,7 +47,7 @@ How I avoided a real-life phishing attempt using cybersecurity training, plus re
 
 4 hours of recording for 8 minutes of content. 10 hours of editing. The reality check of stepping into an unknown field and realizing how much you don't know. My first video taught me more about persistence and learning than any tutorial could.
 
-**[Read the full post →](/BTuff-Security/offclock/002-content-creation/)**
+**[Read the full post →](/offclock/002-content-creation/)**
 
 ---
 
@@ -86,7 +86,7 @@ I document everything - successes and failures. If I struggle with a concept, yo
 - **Currently Pursuing**: BTL1 (Blue Team Level 1)
 - **Goal**: SOC/Blue-Team Analyst role
 
-[Read more about me →](/BTuff-Security/about/)
+[Read more about me →](/about/)
 
 ---
 

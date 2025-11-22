@@ -7,7 +7,7 @@ nav_order: 1
 
 # Week 01: Rediscovering Network Tools Through a Security Lens
 
-<img src="/BTuff-Security/assets/images/Sectools.jpeg" alt="Security Tools" style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
+<img src="/assets/images/Sectools.jpeg" alt="Security Tools" style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
 
 This first week of studying for these certifications was jam-packed with review. Starting these new certs after already having my Security+ and Network+, I already knew a lot of these concepts, but it's always good to revisit and solidify your understanding. I'm really enjoying both courses, especially the OSCP labs. Getting to actually _do things_ in a Kali Linux environment, probing actual machines, is super fun! The BTL1 cert has me going through the basics, which like I said is lots of review, but I'm happy to spread the knowledge.
 
