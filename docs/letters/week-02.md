@@ -195,3 +195,5 @@ Patch Management is the process of keeping all your systems updated with the lat
 ## Wrap-Up
 
 I hope you enjoyed week 2 of the weekly letters documenting my journey breaking into cybersecurity! I'll have the corresponding YouTube video out soon. I appreciate you reading, have a great Thanksgiving, and never forget to BTuff!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6m0EiJ5yPzk?si=Z5PSVszRPq_EoG4z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
