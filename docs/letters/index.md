@@ -25,24 +25,30 @@ Letters are organized from newest to oldest. Each represents one week of focused
 
 ## Latest Letter
 
-### **[Week 02 - Cybersecurity Skills Transfer to the Real World →]({{ site.baseurl }}{% link letters/week-02.md %})**
+### **[Week 03 - AD + Phishing Analysis: Two Pillars of Blue Team Work →]({{ site.baseurl }}{% link letters/week-03.md %})**
 
-How I avoided a real-life phishing attempt using cybersecurity training, plus reinforcing key SOC concepts like SIEM, EDR, HIDS/HIPS, Risk Management, and more!
+This week I finally made it into the phishing analysis section of BTL1! But first, I had to master Active Directory fundamentals. Learn how to investigate compromised accounts with PowerShell, analyze credential harvesting emails, spot typosquatting attacks, and understand Kerberos authentication.
 
 **Topics covered:**
-- Story Time: The Phishy Man (real-life social engineering)
-- SIEM vs EDR vs HIDS/HIPS - understanding the differences
-- Risk Management Framework and the 4 ways to manage risk
-- Vulnerability Scanning, DLP, NIDS/NIPS, and more
-- Security Awareness Training saves lives (literally!)
+- Querying Active Directory for security investigations
+- Breaking down a real Amazon phishing email (with all the red flags)
+- Typosquatting & Homoglyphs - how attackers trick your eyes
+- Kerberos Authentication explained with the amusement park analogy
+- Quick wins: AD queries, phishing checklist, and mental models
 
-**[Read Week 02 now →]({{ site.baseurl }}{% link letters/week-02.md %})**
+**[Read Week 03 now →]({{ site.baseurl }}{% link letters/week-03.md %})**
 
 Subscribe on [YouTube](https://www.youtube.com/@BTuffSecurity) for video demonstrations!
 
 ---
 
 ## Previous Letters
+
+### **[Week 02 - Cybersecurity Skills Transfer to the Real World →]({{ site.baseurl }}{% link letters/week-02.md %})**
+
+How I avoided a real-life phishing attempt using cybersecurity training, plus reinforcing key SOC concepts like SIEM, EDR, HIDS/HIPS, Risk Management, and more!
+
+---
 
 ### **[Week 01 - Rediscovering Network Tools Through a Security Lens →]({{ site.baseurl }}{% link letters/week-01.md %})**
 
