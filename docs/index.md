@@ -25,17 +25,17 @@ Hey! I'm **Muhiz "BTuff" Bada**, a 19-year-old documenting my journey from stude
 
 ### 📘 Latest Weekly Letter (Cybersecurity)
 
-**Week 02 - Cybersecurity Skills Transfer to the Real World**
+**Week 03 - AD + Phishing Analysis: Two Pillars of Blue Team Work**
 
-How I avoided a real-life phishing attempt using cybersecurity training, plus reinforcing key SOC concepts like SIEM, EDR, HIDS/HIPS, Risk Management, and more!
+This week I finally made it into the phishing analysis section of BTL1! But first, I had to master Active Directory fundamentals. Learn how to investigate compromised accounts with PowerShell, analyze credential harvesting emails, spot typosquatting attacks, and understand Kerberos authentication.
 
 **Topics covered:**
-- Story Time: The Phishy Man (real-life social engineering)
-- SIEM vs EDR vs HIDS/HIPS - understanding the differences
-- Risk Management Framework and the 4 ways to manage risk
-- Security Awareness Training saves lives (literally!)
+- Querying Active Directory for security investigations
+- Breaking down a real Amazon phishing email (with all the red flags)
+- Typosquatting & Homoglyphs - how attackers trick your eyes
+- Kerberos Authentication explained with the amusement park analogy
 
-[Read Week 02 →]({{ site.baseurl }}{% link letters/week-02.md %})
+[Read Week 03 →]({{ site.baseurl }}{% link letters/week-03.md %})
 
 **[All Weekly Letters →]({{ site.baseurl }}{% link letters/index.md %})**
 
@@ -112,5 +112,5 @@ In cybersecurity, demonstrating capability matters more than perfect presentatio
 
 *Ready to prove that breaking into cybersecurity is 100% possible? Let's do this.*
 
-**[Read Week 02 - Real World Skills →]({{ site.baseurl }}{% link letters/week-02.md %})** | **[All Letters →]({{ site.baseurl }}{% link letters/index.md %})**
+**[Read Week 03 - AD + Phishing Analysis →]({{ site.baseurl }}{% link letters/week-03.md %})** | **[All Letters →]({{ site.baseurl }}{% link letters/index.md %})**
 
