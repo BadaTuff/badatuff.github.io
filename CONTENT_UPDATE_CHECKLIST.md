@@ -19,6 +19,7 @@ This checklist ensures all necessary files are updated when publishing new conte
   - [ ] Add hero image if needed: `<img src="/assets/images/filename.png" alt="..." style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">`
   - [ ] Include wrap-up section
   - [ ] Add YouTube video embed OR "Video coming soon!" note
+  - [ ] Add publication date at the bottom: `*Published: [Month Day, Year]*`
 
 ### 2. Add Required Images
 - [ ] Upload any new images to `docs/assets/images/`
@@ -28,16 +29,19 @@ This checklist ensures all necessary files are updated when publishing new conte
 - [ ] Edit `docs/letters/index.md`
   - [ ] Update "Latest Letter" section (lines ~26-40):
     - Update title to Week XX
+    - Add publication date: `*Newly published! [Month Day, Year]*`
     - Update description
     - Update topics covered list
     - Update link to new week
   - [ ] Move previous "Latest Letter" to "Previous Letters" section
+  - [ ] Remove "Newly published!" date from previous letter
   - [ ] Add horizontal divider (`---`) between entries in Previous Letters
 
 ### 4. Update Home Page
 - [ ] Edit `docs/index.md`
   - [ ] Update "Latest Weekly Letter" section (lines ~26-38):
     - Update title to Week XX
+    - Add publication date: `*Newly published! [Month Day, Year]*`
     - Update description
     - Update topics covered list
     - Update link to new week
@@ -65,6 +69,7 @@ This checklist ensures all necessary files are updated when publishing new conte
     ```
   - [ ] Write content in authentic, conversational style
   - [ ] No required format - write what feels right
+  - [ ] Add publication date at the bottom: `*Published: [Month Day, Year]*`
 
 ### 2. Create Mirror File (if needed)
 - [ ] Create identical file in `docs/_offclock/XXX-title.md`
@@ -78,6 +83,7 @@ This checklist ensures all necessary files are updated when publishing new conte
 - [ ] Edit `docs/index.md`
   - [ ] Update "Latest Off the Clock" section (lines ~44-50):
     - Update post title
+    - Add publication date: `*Newly published! [Month Day, Year]*`
     - Update description/excerpt
     - Update link to new post
   - [ ] Previous post is automatically archived (no manual movement needed)
