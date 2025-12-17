@@ -25,17 +25,19 @@ Hey! I'm **Muhiz "BTuff" Bada**, a 19-year-old documenting my journey from stude
 
 ### 📘 Latest Weekly Letter (Cybersecurity)
 
-**Week 03 - AD + Phishing Analysis: Two Pillars of Blue Team Work**
+**Week 04 - From Suspicious Email to Verdict: My Phishing Analysis Workflow**
 
-This week I finally made it into the phishing analysis section of BTL1! But first, I had to master Active Directory fundamentals. Learn how to investigate compromised accounts with PowerShell, analyze credential harvesting emails, spot typosquatting attacks, and understand Kerberos authentication.
+*Newly published! December 16, 2025*
+
+This week I learned the complete phishing investigation workflow - from collecting artifacts to making the final verdict. I created a comprehensive SOP documenting the entire process, including email authentication protocols, reputation tools, sandboxing techniques, and professional report writing templates.
 
 **Topics covered:**
-- Querying Active Directory for security investigations
-- Breaking down a real Amazon phishing email (with all the red flags)
-- Typosquatting & Homoglyphs - how attackers trick your eyes
-- Kerberos Authentication explained with the amusement park analogy
+- The artifact collection process (email, web, and file artifacts)
+- SPF, DKIM, and DMARC - the email authentication trio
+- Reputation tools and sandboxing (VirusTotal, URLScan, Hybrid Analysis, PhishTool)
+- My complete phishing analysis playbook with step-by-step workflow
 
-[Read Week 03 →]({{ site.baseurl }}{% link letters/week-03.md %})
+[Read Week 04 →]({{ site.baseurl }}{% link letters/week-04.md %})
 
 **[All Weekly Letters →]({{ site.baseurl }}{% link letters/index.md %})**
 
@@ -112,5 +114,5 @@ In cybersecurity, demonstrating capability matters more than perfect presentatio
 
 *Ready to prove that breaking into cybersecurity is 100% possible? Let's do this.*
 
-**[Read Week 03 - AD + Phishing Analysis →]({{ site.baseurl }}{% link letters/week-03.md %})** | **[All Letters →]({{ site.baseurl }}{% link letters/index.md %})**
+**[Read Week 04 - Phishing Analysis Workflow →]({{ site.baseurl }}{% link letters/week-04.md %})** | **[All Letters →]({{ site.baseurl }}{% link letters/index.md %})**
 
