@@ -25,26 +25,32 @@ Letters are organized from newest to oldest. Each represents one week of focused
 
 ## Latest Letter
 
-### **[Week 04 - From Suspicious Email to Verdict: My Phishing Analysis Workflow →]({{ site.baseurl }}{% link letters/week-04.md %})**
+### **[Week 05 - I Scanned My Home Network and Found More Than I Expected →]({{ site.baseurl }}{% link letters/week-05.md %})**
 
-*Newly published! December 16, 2025*
+*Newly published! December 26, 2025*
 
-This week I learned the complete phishing investigation workflow - from collecting artifacts to making the final verdict. I created a comprehensive SOP documenting the entire process, covering email authentication (SPF, DKIM, DMARC), reputation tools, sandboxing, and professional report writing.
+I took a break from BTL1 to actually secure my home network. Ran a full nmap scan, found over 20 devices and real vulnerabilities on my printers. Set up network segmentation with an ASUS router, implemented defense-in-depth strategies, and learned the real-world tradeoffs of practical security.
 
 **Topics covered:**
-- The artifact collection process (email, web, and file artifacts)
-- SPF, DKIM, and DMARC - the email authentication trio
-- Reputation tools and sandboxing (VirusTotal, URLScan, Hybrid Analysis, PhishTool)
-- My complete phishing analysis playbook
-- Full Phishing Analysis Investigation SOP (view and download)
+- Running nmap vulnerability scans on home networks
+- Network segmentation with VLANs (Professional, Kids, IoT, Guest networks)
+- Fixing printer vulnerabilities (Slowloris DoS, CSRF, JetDirect exposure)
+- Defense-in-depth with ACLs, firewall rules, and isolation
+- ASUS router security features and home lab setup
 
-**[Read Week 04 now →]({{ site.baseurl }}{% link letters/week-04.md %})**
+**[Read Week 05 now →]({{ site.baseurl }}{% link letters/week-05.md %})**
 
 Subscribe on [YouTube](https://www.youtube.com/@BTuffSecurity) for video demonstrations!
 
 ---
 
 ## Previous Letters
+
+### **[Week 04 - From Suspicious Email to Verdict: My Phishing Analysis Workflow →]({{ site.baseurl }}{% link letters/week-04.md %})**
+
+This week I learned the complete phishing investigation workflow - from collecting artifacts to making the final verdict. I created a comprehensive SOP documenting the entire process, covering email authentication (SPF, DKIM, DMARC), reputation tools, sandboxing, and professional report writing.
+
+---
 
 ### **[Week 03 - AD + Phishing Analysis: Two Pillars of Blue Team Work →]({{ site.baseurl }}{% link letters/week-03.md %})**
 

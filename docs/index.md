@@ -25,19 +25,19 @@ Hey! I'm **Muhiz "BTuff" Bada**, a 19-year-old documenting my journey from stude
 
 ### 📘 Latest Weekly Letter (Cybersecurity)
 
-**Week 04 - From Suspicious Email to Verdict: My Phishing Analysis Workflow**
+**Week 05 - I Scanned My Home Network and Found More Than I Expected**
 
-*Newly published! December 16, 2025*
+*Newly published! December 26, 2025*
 
-This week I learned the complete phishing investigation workflow - from collecting artifacts to making the final verdict. I created a comprehensive SOP documenting the entire process, including email authentication protocols, reputation tools, sandboxing techniques, and professional report writing templates.
+I took a break from BTL1 to actually secure my home network. Ran a full nmap scan, found over 20 devices and real vulnerabilities on my printers. Set up network segmentation with an ASUS router, implemented defense-in-depth strategies, and learned the real-world tradeoffs of practical security.
 
 **Topics covered:**
-- The artifact collection process (email, web, and file artifacts)
-- SPF, DKIM, and DMARC - the email authentication trio
-- Reputation tools and sandboxing (VirusTotal, URLScan, Hybrid Analysis, PhishTool)
-- My complete phishing analysis playbook with step-by-step workflow
+- Running nmap vulnerability scans on home networks
+- Network segmentation with VLANs (Professional, Kids, IoT, Guest networks)
+- Fixing printer vulnerabilities (Slowloris DoS, CSRF, JetDirect exposure)
+- Defense-in-depth with ACLs, firewall rules, and isolation
 
-[Read Week 04 →]({{ site.baseurl }}{% link letters/week-04.md %})
+[Read Week 05 →]({{ site.baseurl }}{% link letters/week-05.md %})
 
 **[All Weekly Letters →]({{ site.baseurl }}{% link letters/index.md %})**
 
@@ -114,5 +114,5 @@ In cybersecurity, demonstrating capability matters more than perfect presentatio
 
 *Ready to prove that breaking into cybersecurity is 100% possible? Let's do this.*
 
-**[Read Week 04 - Phishing Analysis Workflow →]({{ site.baseurl }}{% link letters/week-04.md %})** | **[All Letters →]({{ site.baseurl }}{% link letters/index.md %})**
+**[Read Week 05 - Home Network Security →]({{ site.baseurl }}{% link letters/week-05.md %})** | **[All Letters →]({{ site.baseurl }}{% link letters/index.md %})**
 
