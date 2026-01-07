@@ -25,19 +25,19 @@ Hey! I'm **Muhiz "BTuff" Bada**, a 19-year-old documenting my journey from stude
 
 ### 📘 Latest Weekly Letter (Cybersecurity)
 
-**Week 05 - I Scanned My Home Network and Found More Than I Expected**
+**Week 06 - Taming the Cable Jungle and Setting Up Pi-hole**
 
-*Newly published! December 26, 2025*
+*Newly published! January 5, 2026*
 
-I took a break from BTL1 to actually secure my home network. Ran a full nmap scan, found over 20 devices and real vulnerabilities on my printers. Set up network segmentation with an ASUS router, implemented defense-in-depth strategies, and learned the real-world tradeoffs of practical security.
+This week I tackled cable management and set up Pi-hole on a Raspberry Pi. Learn why cable management matters for SOC work, how Pi-hole provides network-wide ad blocking and DNS visibility, and the troubleshooting journey I went through to get the Raspberry Pi working.
 
 **Topics covered:**
-- Running nmap vulnerability scans on home networks
-- Network segmentation with VLANs (Professional, Kids, IoT, Guest networks)
-- Fixing printer vulnerabilities (Slowloris DoS, CSRF, JetDirect exposure)
-- Defense-in-depth with ACLs, firewall rules, and isolation
+- Why cable management matters in IT and security roles
+- Setting up Pi-hole on Raspberry Pi for DNS-level blocking
+- Network-wide ad blocking, tracker blocking, and DNS visibility
+- How DNS monitoring applies to SOC work
 
-[Read Week 05 →]({{ site.baseurl }}{% link letters/week-05.md %})
+[Read Week 06 →]({{ site.baseurl }}{% link letters/week-06.md %})
 
 **[All Weekly Letters →]({{ site.baseurl }}{% link letters/index.md %})**
 
@@ -114,5 +114,5 @@ In cybersecurity, demonstrating capability matters more than perfect presentatio
 
 *Ready to prove that breaking into cybersecurity is 100% possible? Let's do this.*
 
-**[Read Week 05 - Home Network Security →]({{ site.baseurl }}{% link letters/week-05.md %})** | **[All Letters →]({{ site.baseurl }}{% link letters/index.md %})**
+**[Read Week 06 - Pi-hole Setup →]({{ site.baseurl }}{% link letters/week-06.md %})** | **[All Letters →]({{ site.baseurl }}{% link letters/index.md %})**
 

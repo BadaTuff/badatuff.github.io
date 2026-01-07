@@ -25,26 +25,32 @@ Letters are organized from newest to oldest. Each represents one week of focused
 
 ## Latest Letter
 
-### **[Week 05 - I Scanned My Home Network and Found More Than I Expected →]({{ site.baseurl }}{% link letters/week-05.md %})**
+### **[Week 06 - Taming the Cable Jungle and Setting Up Pi-hole →]({{ site.baseurl }}{% link letters/week-06.md %})**
 
-*Newly published! December 26, 2025*
+*Newly published! January 5, 2026*
 
-I took a break from BTL1 to actually secure my home network. Ran a full nmap scan, found over 20 devices and real vulnerabilities on my printers. Set up network segmentation with an ASUS router, implemented defense-in-depth strategies, and learned the real-world tradeoffs of practical security.
+This week I tackled cable management and set up Pi-hole on a Raspberry Pi. Learn why cable management matters for SOC work, how Pi-hole provides network-wide ad blocking and DNS visibility, and the troubleshooting journey I went through to get the Raspberry Pi working.
 
 **Topics covered:**
-- Running nmap vulnerability scans on home networks
-- Network segmentation with VLANs (Professional, Kids, IoT, Guest networks)
-- Fixing printer vulnerabilities (Slowloris DoS, CSRF, JetDirect exposure)
-- Defense-in-depth with ACLs, firewall rules, and isolation
-- ASUS router security features and home lab setup
+- Why cable management matters in IT and security roles
+- Setting up Pi-hole on Raspberry Pi for DNS-level blocking
+- Network-wide ad blocking, tracker blocking, and DNS visibility
+- Troubleshooting Raspberry Pi SD card flashing issues
+- How DNS monitoring applies to SOC work
 
-**[Read Week 05 now →]({{ site.baseurl }}{% link letters/week-05.md %})**
+**[Read Week 06 now →]({{ site.baseurl }}{% link letters/week-06.md %})**
 
 Subscribe on [YouTube](https://www.youtube.com/@BTuffSecurity) for video demonstrations!
 
 ---
 
 ## Previous Letters
+
+### **[Week 05 - I Scanned My Home Network and Found More Than I Expected →]({{ site.baseurl }}{% link letters/week-05.md %})**
+
+I took a break from BTL1 to actually secure my home network. Ran a full nmap scan, found over 20 devices and real vulnerabilities on my printers. Set up network segmentation with an ASUS router, implemented defense-in-depth strategies, and learned the real-world tradeoffs of practical security.
+
+---
 
 ### **[Week 04 - From Suspicious Email to Verdict: My Phishing Analysis Workflow →]({{ site.baseurl }}{% link letters/week-04.md %})**
 
