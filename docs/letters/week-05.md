@@ -156,7 +156,7 @@ Week 05 was all about taking the theoretical knowledge from Network+ and Securit
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GciKsUzgN7E?si=yiY0vMMB-LBdLWz3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/snTbIbEJWoI?si=O3_8Nohc7lXcJWYv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
