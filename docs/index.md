@@ -10,7 +10,7 @@ permalink: /
 
 ## Breaking Into Cybersecurity Through Persistence
 
-Hey! I'm **Muhiz "BTuff" Bada**, a 19-year-old documenting my journey from student to SOC/Blue-Team Analyst in real-time. Every week I publish practical security work while pursuing Security Blue Team's BTL1 certification.
+Hey! I'm **Muhiz "BTuff" Bada**, documenting my journey from student to SOC/Blue-Team Analyst in real-time. Every week I publish practical security work while pursuing Security Blue Team's BTL1 certification.
 
 ### What Makes This Different?
 

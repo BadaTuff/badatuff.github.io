@@ -11,7 +11,7 @@ permalink: /about/
 
 ## Muhiz "BTuff" Bada
 
-19-year-old Blue-Team focused security analyst in training.
+Blue-Team focused security analyst in training.
 
 I'm finishing a B.S. in Computer Science (InfoSec concentration) at Southern New Hampshire University with a 3.8 GPA (graduating March 2026). I'm incredibly grateful for Walmart's Live Better U program, which is covering my tuition and making this education possible. Currently pursuing Security Blue Team's BTL1 certification while documenting my journey to a SOC/Blue-Team Analyst role.
 
