@@ -128,9 +128,7 @@ Happy New Year to everyone reading this! Here's to 2026 and continuing this jour
 
 ---
 
-**Video coming soon!**
-
-I will demonstrate how I set up my Raspberry Pi and a little bit of the process cleaning up my cables, check out the video to this post below!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ad9FYH0Zlg?si=BdMWNQxonDiRB-Q5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
