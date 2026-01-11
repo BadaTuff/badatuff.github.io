@@ -76,9 +76,33 @@ Here's why Pi-hole is great for a home lab:
 
 **Malicious domain blocking:** You can add blocklists for known malware and phishing domains. Free layer of protection.
 
-The setup is easier than you'd think. One command to install, answer a few prompts, point your router's DNS settings to the Pi, and you're done. I walk through the whole process in my YouTube video if you want to follow along.
+The setup is easier than you'd think. One command to install, answer a few prompts, and then comes the important part: configuring your network to actually use it.
 
-**How this applies to SOC work:** DNS monitoring is a real thing in security operations. Seeing what domains devices are querying can reveal malware beaconing to command and control servers, data exfiltration attempts, or just policy violations. Pi-hole gives you that visibility on your home network. It's the same concept, just smaller scale. Understanding DNS and how to monitor it is directly relevant to SOC work.
+---
+
+### Setting Up the Network Configuration
+
+Once Pi-hole was installed, I needed to make sure every device on my network actually used it. This is where DHCP and DNS configuration come in.
+
+**DHCP (Dynamic Host Configuration Protocol)** is basically the system that automatically assigns IP addresses to devices when they connect to your network. When your phone connects to WiFi, DHCP is what gives it an IP address, tells it what the router is, and tells it what DNS server to use. It's automatic configuration so devices don't need manual setup.
+
+**DNS (Domain Name System)** is like the phone book of the internet. When you type "google.com" into your browser, your device asks a DNS server "what's the IP address for google.com?" The DNS server responds with something like "142.250.185.46" and then your device can actually connect. Humans remember names. Computers need numbers.
+
+Here's the problem: by default, your router's DHCP server tells devices to use your ISP's DNS servers (or Google's, or Cloudflare's). Those DNS servers will happily resolve ad and tracker domains. I needed every device to use Pi-hole as their DNS server instead.
+
+**The solution:**
+
+**Step 1: Give the Raspberry Pi a static IP address**
+
+A static IP means the address never changes. If Pi-hole's IP kept changing every time I rebooted the Pi, all my devices would lose their DNS server and the internet would break. I logged into my router's DHCP settings and created a DHCP reservation for the Pi's MAC address. Now the router always assigns the same IP to the Pi: `192.168.1.100`.
+
+**Step 2: Configure the router to advertise Pi-hole as the DNS server**
+
+In my router's DHCP settings, I changed the DNS server field from my ISP's DNS to `192.168.1.100` (the Pi's static IP). Now when any device connects to my network and asks "what DNS server should I use?", the router tells it "use 192.168.1.100." Every device automatically uses Pi-hole without needing individual configuration.
+
+**Simple terms:** DHCP is the system that automatically gives your devices an IP address and tells them what DNS server to use. DNS is what translates website names into IP addresses. I gave my Raspberry Pi a permanent IP address and told my router to tell every device on the network to use that IP as their DNS server. Now all DNS requests go through Pi-hole first.
+
+**How this applies to SOC work:** Understanding DHCP and DNS is fundamental for network security. DHCP misconfigurations can lead to devices using untrusted DNS servers (or no DNS at all). DNS is also a common attack vector. Attackers can poison DNS responses to redirect users to malicious sites, or use DNS tunneling to exfiltrate data. Monitoring DNS traffic (like Pi-hole does) is a legitimate security control in enterprise environments. Knowing how to configure these protocols properly is essential for any SOC analyst working with network infrastructure.
 
 ---
 
