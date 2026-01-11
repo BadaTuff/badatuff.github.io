@@ -106,6 +106,38 @@ In my router's DHCP settings, I changed the DNS server field from my ISP's DNS t
 
 ---
 
+### Enhancing Pi-hole with Additional Blocklists
+
+Pi-hole comes with default blocklists, but those are just the starting point. If you really want to lock down your network, you need to add more comprehensive blocklists. That's where Firebog.net comes in.
+
+Firebog is a curated collection of blocklists specifically for Pi-hole. These lists cover everything from standard ads and trackers to known malicious domains, phishing sites, ransomware command and control servers, and other suspicious domains that have no business being accessed by anything on your network.
+
+I went through Firebog and added multiple blocklists to Pi-hole:
+
+- **Ad and tracker lists:** For blocking advertising networks and analytics that track your browsing
+- **Malicious domain lists:** Known malware distribution sites, exploit kits, malicious redirects
+- **Phishing lists:** Domains used in credential harvesting campaigns
+- **Suspicious lists:** Newly registered domains, typosquatting domains, known bad actors
+
+Adding these blocklists takes Pi-hole from "pretty good ad blocker" to "legitimate security control." Now when a device on my network tries to reach a domain on one of these lists, Pi-hole just returns nothing. The connection fails silently. The malware can't beacon home. The phishing link goes nowhere. The tracker never loads.
+
+But here's the real value: **visibility**.
+
+Pi-hole's dashboard shows me every DNS query on my network. I can see:
+
+- **Top blocked domains:** Which malicious domains are being contacted most frequently. If I see a spike in blocked phishing domains, something on my network might be compromised.
+- **Top clients:** Which devices are making the most queries. If a smart TV is suddenly hammering DNS with thousands of requests, that's suspicious.
+- **Query log:** A real-time feed of every DNS request. I can filter by device and see exactly what each machine is trying to reach.
+- **Per-device statistics:** Granular visibility into what each device on my network is doing. If my kid's tablet starts querying known malware domains, I know there's a problem immediately.
+
+This is the kind of visibility that helps you identify infected machines fast. You're not waiting for antivirus to catch something. You're not hoping the malware reveals itself. You're watching network behavior in real-time and spotting anomalies as they happen.
+
+**Simple terms:** I added curated blocklists from Firebog.net to Pi-hole so it blocks not just ads, but also known malicious domains, phishing sites, and suspicious websites. This gives me way better security and lets me see exactly what every device on my network is trying to contact. If something's infected, I'll know because I can see it trying to reach bad domains.
+
+**How this applies to SOC work:** DNS monitoring is a real detection method in enterprise security. Security teams use DNS logs to identify compromised hosts, detect malware beaconing, spot data exfiltration via DNS tunneling, and investigate phishing campaigns. What I'm doing with Pi-hole at home is the exact same concept, just at a smaller scale. Understanding how to monitor and analyze DNS traffic is a legitimate blue team skill. Being able to spot anomalies in DNS queries and correlate them with potential infections is exactly what you'd do in a SOC role.
+
+---
+
 ## 🚧 The Challenge
 
 **Where I got stuck:**
